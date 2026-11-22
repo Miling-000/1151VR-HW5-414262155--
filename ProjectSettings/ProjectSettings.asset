@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 30
-  productGUID: 472e276140176894d8f32c801c453919
+  productGUID: bc75d5bb6ddb71d4fa64d1f9485e7737
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: My project (2)
+  productName: HW5
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -857,14 +857,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: My project (2)
+  metroPackageName: HW5
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: My project (2)
+  metroApplicationDescription: HW5
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -935,10 +935,10 @@ PlayerSettings:
   activeInputHandler: 1
   windowsGamepadBackendHint: 0
   enableDirectStorage: 0
-  cloudProjectId: af0057b5-7a72-43f8-bac9-39346ac9102c
+  cloudProjectId: 1f15d792-b916-4a61-bb35-d9e21eede8b7
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: My project (2) 2026-10-19_09-39-16
+  projectName: HW5
   organizationId: unity_38fd7255e0cad740c1e4
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
